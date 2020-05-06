@@ -1,3 +1,3 @@
 # BulmaPill
- code of videopill about Bulma
- see live on https://fflab.github.io/BulmaPill/
+ code of videopill about Bulma, 
+ see it live on https://fflab.github.io/BulmaPill/
